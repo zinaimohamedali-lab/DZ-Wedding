@@ -77,8 +77,11 @@ Pensez à utiliser régulièrement *Paramètres → Sauvegarde → Exporter* et 
 
 Pour obtenir une licence, une démonstration ou de l'aide :
 
-- 📧 **Email** : à compléter
-- 📱 **Téléphone** : à compléter
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+213_676_538_803-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213676538803)
+
+- 💬 **WhatsApp** : [+213 676 538 803](https://wa.me/213676538803) — *le plus rapide*
+- 📱 **Téléphone** : +213 676 538 803
+- 🌐 **Site web** : [dz-wedding.netlify.app](https://dz-wedding.netlify.app/)
 
 ---
 
