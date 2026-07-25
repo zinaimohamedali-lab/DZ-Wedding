@@ -1,8 +1,8 @@
 # 💍 DZ Wedding
 
-**Logiciel de gestion tout-en-un pour salles des fêtes, traiteurs et négafate — marché algérien.**
+**Gestion salle des fêtes et traiteurs — logiciel tout-en-un pour le marché algérien.**
 
-> برنامج تسيير قاعات الحفلات والممونين والنقافات
+> برنامج تسيير قاعات الحفلات والممونين
 
 [![Télécharger](https://img.shields.io/badge/⬇_Télécharger-DZ_Wedding_1.0-c9a227?style=for-the-badge)](../../releases/latest)
 
