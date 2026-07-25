@@ -1,0 +1,26 @@
+# Dépôt de DISTRIBUTION uniquement — aucun code source, aucun keygen.
+# Ces règles sont une double sécurité si un fichier était copié par erreur.
+
+# Secrets du système de licence — NE JAMAIS PUBLIER
+keys_prive/
+*.key
+*.key.enc
+licences_emises.csv
+
+# Code source de l'application
+app/
+keygen/
+build_tools/
+*.py
+*.spec
+
+# Binaires (distribués via les Releases GitHub, pas dans le dépôt)
+*.exe
+dist/
+build/
+
+# Données et environnements
+data/
+.venv/
+node_modules/
+__pycache__/
