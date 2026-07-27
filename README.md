@@ -81,7 +81,7 @@ Pour obtenir une licence, une démonstration ou de l'aide :
 
 - 💬 **WhatsApp** : [+213 676 538 803](https://wa.me/213676538803) — *le plus rapide*
 - 📱 **Téléphone** : +213 676 538 803
-- 🌐 **Site web** : [dz-wedding.netlify.app](https://dz-wedding.netlify.app/)
+- 🌐 **Site web** : [zinaimohamedali-lab.github.io/DZ-Wedding](https://zinaimohamedali-lab.github.io/DZ-Wedding/)
 
 ---
 
